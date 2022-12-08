@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rate_limit) 
-![Dario#9999](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white "Dario#9999")
 
 
 # 💻 Tech Stack:
